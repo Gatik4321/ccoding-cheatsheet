@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.logo img{
+    width:32px;
+}
+nav img:hover{
+    border:2px solid white;
+}
+nav{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color:black;
+    color:white;
+    font-size:1.4rem;
+    height:56px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+.container{
+    /* background-color:red; */
+    width:50vw;
+    margin:auto;
+    padding:32px 0px;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size:28px;
+}
+.logo{
+    padding:23px 0px;
+}
